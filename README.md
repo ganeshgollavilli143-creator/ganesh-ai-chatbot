@@ -2,7 +2,7 @@
 
 A small intent-based chatbot with a FastAPI backend and a browser chat interface. It uses a TensorFlow model and NLTK to match messages to responses in `intents.json`.
 
-> This project is adapted from the MIT-licensed source credited in [LICENSE](LICENSE). The original license notice is preserved; this version is customized and maintained by Ganesh.
+> **Maintainer and adapter:** Ganesh. This project adapts the MIT-licensed chatbot by Ramakrushna Mohapatra; see [LICENSE](LICENSE) for the original copyright and license terms.
 
 ## Run locally
 
